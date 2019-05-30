@@ -1,0 +1,24 @@
+{
+  "headings": {
+    "_id": "Trip ID",
+    "user": "Client",
+    "client_client": "Client's Client",
+    "start_time": "Start Time",
+    "eta_days": "ETA Days",
+    "actual_ping": "Actual Ping",
+    "pings": "Expected Ping",
+    "expected_pings": "Expected Pings within last 24 Hrs",
+    "actual_pings": "Actual Pings within last 24 Hrs"
+  },
+  "all_headings": [
+    "_id",
+    "user",
+    "actual_ping",
+    "ping",
+    "ping_rate",
+    "start_time",
+    "eta_days",
+    "expected_pings",
+    "actual_pings"
+  ]
+}

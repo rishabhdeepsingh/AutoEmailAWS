@@ -1,0 +1,6 @@
+requests
+pymongo
+botocore
+boto3
+xlsxwriter
+dnspython
